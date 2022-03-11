@@ -37,8 +37,8 @@
 ## oWhere the owner want to use the features of ther car provided .
 
 ## Why
-## oTo know the working and ststuus of different features of the car.
-## oTo use diffewrent feature of the car with ease .
+## oTo know the working and status of different features of the car.
+## oTo use different feature of the car with ease .
 
 ## How 
 ## oThe features can be used by buttons of your remote or device . 
