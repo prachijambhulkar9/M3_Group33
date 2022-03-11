@@ -24,22 +24,22 @@
 # 5W's And 1H
 
 ## Who
-* oPeople who own a car.
+* People who own a car.
 
 ## What
-* oThe system can control the feature of car by wireless key.
-* oThe status of different features of the car is given by LED's or display.
+* The system can control the feature of car by wireless key.
+* The status of different features of the car is given by LED's or display.
 
 ## When
-* oWhen the user wants to know the status of windows , alarm ,battery and door.
+* When the user wants to know the status of windows , alarm ,battery and door.
 
 ## Where 
-* oWhere the owner want to use the features of ther car provided .
+* Where the owner want to use the features of ther car provided .
 
 ## Why
-* oTo know the working and status of different features of the car.
-* oTo use different feature of the car with ease .
+* To know the working and status of different features of the car.
+* To use different feature of the car with ease .
 
 ## How 
-* oThe features can be used by buttons of your remote or device . 
+* The features can be used by buttons of your remote or device . 
 
